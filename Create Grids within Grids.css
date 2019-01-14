@@ -26,10 +26,8 @@
   .item3 {
     background: PaleTurquoise;
     grid-area: content;
-    /* enter your code below this line */
-    
-    
-    /* enter your code above this line */
+    grid-template-columns: auto 1fr;
+    display: grid;
   }
   
   .item4 {
